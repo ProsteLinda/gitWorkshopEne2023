@@ -1,0 +1,62 @@
+<farm>
+    <animal id="1">
+        <species>Cow</species>
+        <name>Berta</name>
+        <age>5</age>
+        <color>Brown</color>
+    </animal>
+    <animal id="2">
+        <species>Horse</species>
+        <name>Ferda</name>
+        <age>8</age>
+        <color>Black</color>
+    </animal>
+    <animal id="3">
+        <species>Sheep</species>
+        <name>Shaun</name>
+        <age>3</age>
+        <color>White</color>
+    </animal>
+    <animal id="4">
+        <species>Goat</species>
+        <name>Milka</name>
+        <age>4</age>
+        <color>Gray</color>
+    </animal>
+    <animal id="5">
+        <species>Horse</species>
+        <name>Spike</name>
+        <age>6</age>
+        <color>Brown</color>
+    </animal>
+    <animal id="6">
+        <species>Cat</species>
+        <name>Murka</name>
+        <age>2</age>
+        <color>Calico</color>
+    </animal>
+    <animal id="7">
+        <species>Pig</species>
+        <name>Boby</name>
+        <age>4</age>
+        <color>Pink</color>
+    </animal>
+    <animal id="8">
+        <species>Rooster</species>
+        <name>Kikirikí</name>
+        <age>1</age>
+        <color>Red</color>
+    </animal>
+    <animal id="9">
+        <species>Turkey</species>
+        <name>Turka</name>
+        <age>2</age>
+        <color>Gray</color>
+    </animal>
+    <animal id="10">
+        <species>Cat</species>
+        <name>Tom</name>
+        <age>5</age>
+        <color>Black and White</color>
+    </animal>
+</farm>
