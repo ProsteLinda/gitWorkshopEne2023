@@ -71,4 +71,10 @@
         <age>3</age>
         <color>Black</color>
     </animal>
+    <animal id="14">
+        <species>Cat</species>
+        <name>CatJana</name>
+        <age>1</age>
+        <color>Black and White</color>
+    </animal>
 </farm>
