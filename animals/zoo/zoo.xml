@@ -59,7 +59,7 @@
         <age>2</age>
         <habitat>Indian Garden</habitat>
     </animal>
-    <animal id="11">
+       <animal id="11">
         <species>Wombat</species>
         <name>Karel</name>
         <age>29</age>
@@ -70,11 +70,22 @@
         <name>Nemo</name>
         <age>4</age>
         <habitat>Ocenarium</habitat>
-    </animal>
     <animal id="13">
+        <species>Eagle</species>
+        <name>Hunter</name>
+        <age>2</age>
+        <habitat>Rocky Mountains</habitat>
+    </animal>
+    <animal id="14">
         <species>Seal</species>
         <name>Tulík</name>
         <age>2</age>
         <habitat>Ocean</habitat>
+    </animal>
+        <animal id="13">
+        <species>Eagle</species>
+        <name>Hunter</name>
+        <age>2</age>
+        <habitat>Rocky Mountains</habitat>
     </animal>
 </zoo>
