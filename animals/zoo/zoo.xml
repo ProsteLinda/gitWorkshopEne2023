@@ -59,4 +59,22 @@
         <age>2</age>
         <habitat>Indian Garden</habitat>
     </animal>
+       <animal id="11">
+        <species>Wombat</species>
+        <name>Karel</name>
+        <age>29</age>
+        <habitat>Tropical forest</habitat>
+    </animal>
+    <animal id="12">
+        <species>Fish</species>
+        <name>Nemo</name>
+        <age>4</age>
+        <habitat>Ocenarium</habitat>
+    </animal>
+        <animal id="13">
+        <species>Eagle</species>
+        <name>Hunter</name>
+        <age>2</age>
+        <habitat>Rocky Mountains</habitat>
+    </animal>
 </zoo>
