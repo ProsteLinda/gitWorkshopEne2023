@@ -71,4 +71,10 @@
         <age>4</age>
         <habitat>Ocenarium</habitat>
     </animal>
+    <animal id="13">
+        <species>Platypus</species>
+        <name>Pery</name>
+        <age>2,5</age>
+        <habitat>Streams and rivers</habitat>
+    </animal>
 </zoo>
