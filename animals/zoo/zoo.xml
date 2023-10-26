@@ -71,7 +71,13 @@
         <age>4</age>
         <habitat>Ocenarium</habitat>
     </animal>
-    <animal id="13">
+    <animal id="13">        
+        <species>Seal</species>
+        <name>Tulík</name>
+        <age>2</age>
+        <habitat>Ocean</habitat>
+    </animal>
+    <animal id="14">  
         <species>Platypus</species>
         <name>Pery</name>
         <age>2,5</age>
