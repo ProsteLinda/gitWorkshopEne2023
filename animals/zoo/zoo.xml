@@ -70,6 +70,11 @@
         <name>Nemo</name>
         <age>4</age>
         <habitat>Ocenarium</habitat>
+    <animal id="13">
+        <species>Eagle</species>
+        <name>Hunter</name>
+        <age>2</age>
+        <habitat>Rocky Mountains</habitat>
     </animal>
     <animal id="13">
         <species>Seal</species>
