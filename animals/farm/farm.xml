@@ -59,4 +59,10 @@
         <age>5</age>
         <color>Black and White</color>
     </animal>
+    <animal id="11">
+        <species>Cat</species>
+        <name>Nimbus</name>
+        <age>8</age>
+        <color>Dark blue</color>
+    </animal>
 </farm>
