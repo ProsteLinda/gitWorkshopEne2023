@@ -65,4 +65,10 @@
         <age>8</age>
         <color>Dark blue</color>
     </animal>
+    <animal id="12">
+        <species>Dog</species>
+        <name>Rex</name>
+        <age>3</age>
+        <color>Black</color>
+    </animal>
 </farm>
