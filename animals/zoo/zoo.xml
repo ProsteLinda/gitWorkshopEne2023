@@ -71,4 +71,10 @@
         <age>4</age>
         <habitat>Ocenarium</habitat>
     </animal>
+    <animal id="13">
+        <species>Wombat</species>
+        <name>Gavin</name>
+        <age>2</age>
+        <habitat>Flower Garden</habitat>
+    </animal>
 </zoo>
