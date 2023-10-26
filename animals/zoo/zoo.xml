@@ -65,4 +65,10 @@
         <age>29</age>
         <habitat>Tropical forest</habitat>
     </animal>
+    <animal id="12">
+        <species>Fish</species>
+        <name>Nemo</name>
+        <age>4</age>
+        <habitat>Ocenarium</habitat>
+    </animal>
 </zoo>
