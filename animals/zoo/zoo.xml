@@ -71,4 +71,10 @@
         <age>4</age>
         <habitat>Ocenarium</habitat>
     </animal>
+    <animal id="13">
+        <species>Seal</species>
+        <name>Tulík</name>
+        <age>2</age>
+        <habitat>Ocean</habitat>
+    </animal>
 </zoo>
